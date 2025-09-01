@@ -79,5 +79,3 @@ For feedback, suggestions, or collaboration, please contact me via [GitHub](http
 This project is open source and available under the MIT License.
 
 ---
-
-Feel free to customize this README further to highlight your story, skills, or additional projects!
