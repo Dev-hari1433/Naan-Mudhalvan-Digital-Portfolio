@@ -4,7 +4,7 @@ Welcome to the digital portfolio of Hari Haran R, developed as part of the Naan 
 
 ## 🌐 Live Demo
 
-View the portfolio: [index.html](https://github.com/Dev-hari1433/Naan-Mudhalvan-Digital-Portfolio/blob/main/index.html)
+View the portfolio: https://dev-hari1433.github.io/Naan-Mudhalvan-Digital-Portfolio/
 
 ---
 
