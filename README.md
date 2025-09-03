@@ -1,7 +1,3 @@
-Here is a professional, modern README.md for your repository, including a complete end-to-end tech stack and all relevant details:
-
----
-
 # Naan Mudhalvan Digital Portfolio
 
 Welcome to the digital portfolio of Hari Haran R, developed as part of the Naan Mudhalvan initiative. This repository showcases my skills, achievements, projects, and resume in a visually appealing and interactive format.
@@ -82,11 +78,3 @@ For feedback, suggestions, or collaboration, please contact me via [GitHub](http
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README further to highlight your story, skills, or additional projects!
-
----
-
-Would you like this README.md to be saved in your repository automatically?
